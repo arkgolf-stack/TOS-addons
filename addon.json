@@ -1,0 +1,58 @@
+[
+	{
+		"tosversion" : "20260923",
+		"name" : "fieldloot_fix",
+		"file" : "fieldloot_fix",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.1",
+		"releaseTag" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "This is a fix for field loot.",
+		"tags" : [
+			"fix",
+			"ui"
+		]
+	},
+	{
+		"tosversion" : "20260923",
+		"name" : "minimapregeioninfo_fix",
+		"file" : "minimapregeioninfo_fix",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.1",
+		"releaseTag" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "This is a fix for minimap region info.",
+		"tags" : [
+			"fix",
+			"ui"
+		]
+	},
+	{
+		"tosversion" : "20260923",
+		"name" : "quickactionboard_fix",
+		"file" : "quickactionboard_fix",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.1",
+		"releaseTag" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "This is a hot fox for quickaction board.",
+		"tags" : [
+			"fix",
+			"ui"
+		]
+	},
+	{
+		"tosversion" : "20260923",
+		"name" : "global_ram_cleaner",
+		"file" : "global_ram_cleaner",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.1",
+		"releaseTag" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "This is an addon aiming to clean up memory use.",
+		"tags" : [
+			"fix",
+			"memory"
+		]
+	}
+]
